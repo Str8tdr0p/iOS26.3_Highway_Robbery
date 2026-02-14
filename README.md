@@ -36,11 +36,6 @@ The research focuses on the persistence of zero-click exploitation chains within
 
 * `logdata_26_2_1.tracev3`: Binary unified logs from Build 23C71 documenting autonomous, zero-click framework bursts.
 * `logdata_26_3_Live.tracev3`: Binary unified logs from Build 23D127 documenting the remediated state and signature displacement.
-```
-sha-256
-logdata_26_2_1.tracev3: 905b5cc8dc4cfc0254221bab3478c67c023821ff1852d8f8dfa2d782927e4c9c
-logdata_26_3_Live.tracev3`: 161df0cbdd70bfe507cb41bc2986d3474bf49755f5c97707b9751c9943b4845b
-```
 
 ### 3. Tooling
 
